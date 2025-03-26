@@ -1,4 +1,4 @@
-package com.sabornamao
+package com.teste662.SaborNaMao
 
 import android.app.Application
 import android.content.res.Configuration

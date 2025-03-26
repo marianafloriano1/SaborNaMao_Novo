@@ -1,4 +1,4 @@
-package com.sabornamao
+package com.teste662.SaborNaMao
 
 import android.os.Build
 import android.os.Bundle

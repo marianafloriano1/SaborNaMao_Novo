@@ -2,6 +2,11 @@
   "expo": {
     "name": "SaborNaMao",
     "slug": "SaborNaMao",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "0115227f-c646-4760-9f4c-737d163476b0"
+      }
+    }
   }
 }
